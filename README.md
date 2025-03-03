@@ -1,14 +1,10 @@
-
-
-
-
 BabelStone : IDS Database
+
 
 IDS Database
 ============
 
 ---
-
 
   
 
@@ -18,10 +14,7 @@ The BabelStone IDS database is a plain text listing (encoded as UTF-8) of Ideogr
 
   
 
+
 ---
 
 [BabelStone Home Page](https://www.babelstone.co.uk/CJK/index.html "https://www.babelstone.co.uk/CJK/index.html")
-
-
-
-
